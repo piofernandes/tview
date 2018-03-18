@@ -1,0 +1,6 @@
+tview.page:
+  path: 'admin/translation/overview'
+  defaults:
+    _controller: '\Drupal\tview\Controller\TView::getContent'
+  requirements:
+    _permission: 'access content'

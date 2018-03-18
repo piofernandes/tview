@@ -1,0 +1,5 @@
+tview:
+  version: 1.x
+  css:
+    component:
+      css/tview.css: {}

@@ -1,0 +1,8 @@
+name: Translation Overview
+type: module
+description: Reports node translation status.
+# core: 8.x
+dependencies:
+  - drupal:node
+
+core: '8.x'
